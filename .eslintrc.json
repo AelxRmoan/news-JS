@@ -1,5 +1,4 @@
-{
-    "plugins": ["prettier", "import"],
+{   "plugins": ["prettier", "import"],
     "extends": [
         "plugin:prettier/recommended",
         "prettier",
